@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sudoku Zero</string>
+    <string name="new_game_button">New</string>
+    <string name="continue_game_button">Continue</string>
+    <string name="stats_button">Stats</string>
+    <string name="exit_button">Exit</string>
+    <string name="how_button">How to play</string>
+    <string name="new_game_dialog">Difficulty</string>
+    <string name="extremelyeasy_label">Extremely Easy</string>
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="hard_label">Hard</string>
+    <string name="insane_label">Insane</string>
+    <string name="keypad_title">Keypad</string>
+
+    <string name="game_title">Game</string>
+
+    <string name="hints">Hints</string>
+
+    <string name="submit">Submit</string>
+    <string name="submit_fail_toast">The puzzle is not correct</string>
+    <string name="submit_unfinished_toast">The puzzle is not complete</string>
+    <string name="submit_dialog_message">You have successfully solved the puzzle!</string>
+    <string name="submit_dialog_title">Congratulations!</string>
+    <string name="submit_dialog_back">Back to Main Menu</string>
+
+
+    <string name="hint1">Show</string>
+    <string name="hint2">next</string>
+    <string name="hint3">number</string>
+    <string name="hint4">Check</string>
+    <string name="hint5">for</string>
+    <string name="hint6">mistakes</string>
+
+    <string name="stats_label">Number of Puzzles Solved</string>
+
+
+</resources>
