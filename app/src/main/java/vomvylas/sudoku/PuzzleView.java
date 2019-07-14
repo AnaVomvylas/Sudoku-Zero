@@ -18,6 +18,7 @@ import android.widget.Toast;
 public class PuzzleView extends View{
     private final Game game;
 
+	// this is a test comment for git
     // setting variables
     private float width; //of each tile
     private float height; //of each tile
